@@ -1,0 +1,4 @@
+[core]
+    remote = house-prediction
+['remote "house-prediction"']
+    url = s3://pb-3143495234-2712
